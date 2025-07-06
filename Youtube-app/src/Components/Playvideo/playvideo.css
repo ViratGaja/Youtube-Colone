@@ -7,7 +7,7 @@
 }
 
 .play-video h3 {
-    margin-top: 10px;
+    margin-top: 16px;
     font-weight: 600;
     font-size: 22px;
 }
@@ -100,7 +100,8 @@
 .comment{
     display: flex;
     align-items: flex-start;
-    margin: 20px 0;    
+    margin: 20px 0;  
+    gap:10px;  
 }
 
 .comment img{
