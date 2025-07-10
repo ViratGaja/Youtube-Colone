@@ -46,6 +46,8 @@ const Feed = ({ category }) => {
 
         </div>
 
+        
+
     )
 }
 
